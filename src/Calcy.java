@@ -29,7 +29,7 @@ public class Calcy {
 	 * Returns quotient upon division of two numbers
 	 * @param operand1 Dividend in the division
 	 * @param operand2 Divisor in the division
-	 * @return
+	 * @return quotient of operand1/operand2
 	 */
 	public double divide(double operand1,double operand2) {
 		if(operand2!=0) {
